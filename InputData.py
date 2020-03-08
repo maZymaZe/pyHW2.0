@@ -8,4 +8,4 @@ def input_data():
         data[int(line[0])]=int(line[1])
     f.close()
     return data
-input_data()
+#input_data()

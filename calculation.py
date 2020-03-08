@@ -19,6 +19,6 @@ def cal(data):
     ave=round(ave,1)
     mid=data[14]
     return maxNum,maxDay,minNum,minDay,ave,mid
-data=input_data()
-cal(data)
+#data=input_data()
+#cal(data)
     
